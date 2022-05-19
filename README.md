@@ -1,1 +1,1 @@
-## Public Link: https://github.com/muradmehdiyevv/uni_lab_first/index.html
+## Public Link: https://muradmehdiyevv.github.io/uni_lab_first/
